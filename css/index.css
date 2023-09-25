@@ -1,0 +1,13 @@
+* {
+    font-family: 'Arial';
+}
+
+.card-title {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+select {
+    width: 100%;
+}
